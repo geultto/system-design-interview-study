@@ -32,8 +32,8 @@
 | ------ | -------------------------------------------------------- |
 | 이예신 | [@yeslee-v](https://github.com/yeslee-v)                 |
 | 이승민 | [@effectivemadness](https://github.com/effectivemadness) |
-| 조재은 | []()                                                     |
-| 문찬국 | []()                                                     |
+| 조재은 | [@jojaegu2](https://github.com/jojaegu2)                                                     |
+| 문찬국 | [@nonegom](https://github.com/nonegom)                                                     |
 
 <br>
 
